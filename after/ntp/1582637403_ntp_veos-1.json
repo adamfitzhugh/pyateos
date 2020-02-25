@@ -1,0 +1,49 @@
+{
+    "peers": {
+        "1.1.1.1": {
+            "delay": 0.0,
+            "jitter": 0.0,
+            "lastReceived": 2085978496.0,
+            "peerType": "unicast",
+            "reachabilityHistory": [
+                true
+            ],
+            "condition": "reject",
+            "offset": 0.0,
+            "peerIpAddr": "1.1.1.1",
+            "pollInterval": 1024,
+            "refid": ".INIT.",
+            "stratumLevel": 16
+        },
+        "2.2.2.2": {
+            "delay": 0.0,
+            "jitter": 0.0,
+            "lastReceived": 2085978496.0,
+            "peerType": "unicast",
+            "reachabilityHistory": [
+                true
+            ],
+            "condition": "reject",
+            "offset": 0.0,
+            "peerIpAddr": "2.2.2.2",
+            "pollInterval": 1024,
+            "refid": ".INIT.",
+            "stratumLevel": 16
+        },
+        "3.3.3.3": {
+            "delay": 0.0,
+            "jitter": 0.0,
+            "lastReceived": 2085978496.0,
+            "peerType": "unicast",
+            "reachabilityHistory": [
+                true
+            ],
+            "condition": "reject",
+            "offset": 0.0,
+            "peerIpAddr": "3.3.3.3",
+            "pollInterval": 1024,
+            "refid": ".INIT.",
+            "stratumLevel": 16
+        }
+    }
+}
